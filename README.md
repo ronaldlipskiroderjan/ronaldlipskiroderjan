@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ronald 👋</h1>
+<h1 align="center">Olá 👋</h1>
 <h3 align="center">Desenvolvedor Back-end | Java & Spring Boot</h3>
 <p align="center">
   Estudante de Engenharia de Software (PUCPR), especializando-me em desenvolvimento back-end com Java e Spring Boot, construindo APIs RESTful com Spring Data JPA, Hibernate e Spring Security.
