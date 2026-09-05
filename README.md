@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```java
 public class RonaldRoderjan {
@@ -34,16 +34,16 @@ public class RonaldRoderjan {
 ```text
 
 
- "The more varieties of different kinds of notations are still useful -
- don't only read the people who code like you."
-                                                          -Donald Kruth
+ "The more varieties of different kinds of notations are
+still useful -don't only read the people who code like you."
+                                                  -Donald Kruth
 
 ```
  
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 <div align="center">
-  <img src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="90%" alt="coding gif"/>
+  <img src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="85%" alt="coding gif"/>
 </div>
 </td>
 </tr>
