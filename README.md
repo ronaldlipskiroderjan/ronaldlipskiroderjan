@@ -6,6 +6,8 @@
 
 ## 🚀 About Me
 
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -36,6 +38,7 @@ public class RonaldRoderjan {
 
      "The more varieties of different kinds of notations are
     still useful -don't only read the people who code like you."
+
                                                        -Donald Kruth
 
 ```
@@ -49,11 +52,22 @@ public class RonaldRoderjan {
 </tr>
 </table>
 
+---
+
 ## 💬 Connect With Me
 
 <div align="center">
   <a href="www.linkedin.com/in/ronald-lipski-roderjan-352476368">  
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" height="55" alt="LinkedLn"/>
+  </a>
+  <a href="mailto:ronaldlipski1@gmail.com">  
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/960px-Mail_%28iOS%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20141024222707" height="55" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/ronald.lipski/">  
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220518162235" height="55" alt="Email"/>
+  </a>
+  <a href="https://discordapp.com/users/1486111078273388744">  
+    <img src="https://files.svgcdn.io/skill-icons/discord.svg" height="57" alt="Email"/>
   </a>
 </div>
 
@@ -64,7 +78,7 @@ public class RonaldRoderjan {
 
 ### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java"/>
+<img src="https://icon-icons.com/pt/icone/logotipo-fedora/20844" height="55" alt="fedora"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" alt="kotlin"/>
 <img width="12"/>
