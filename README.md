@@ -76,41 +76,7 @@ public class RonaldRoderjan {
 
 <div align="center">
 
-### Languages
-
-<img src="https://icon-icons.com/pt/icone/logotipo-fedora/20844" height="55" alt="fedora"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" alt="kotlin"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55" alt="go"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python"/>
-
-<br/><br/>
-
-### Backend & Testing
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="spring"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="55" alt="junit"/>
-
-<br/><br/>
-
-### Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql"/>
-
-<br/><br/>
-
-### Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="55" alt="fedora"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="fedora"/>
 
 </div>
 
