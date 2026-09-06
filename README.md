@@ -76,7 +76,8 @@ public class RonaldRoderjan {
 
 <div align="center">
 
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="fedora"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="Fedora"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
 
 </div>
 
