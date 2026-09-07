@@ -75,16 +75,31 @@ public class RonaldRoderjan {
 ## 🛠 Tech Stack
 
 <div align="center">
-
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="Fedora"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="67.5" alt="Linux"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/3032C5B3-078E-4B2F-ACD7-837EBA94CB0E-removebg-preview.png" height="69" alt="Kotlin"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="69" alt="Linux" />
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="68" alt="Fedora"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/distributorlogognome_104245.png" height="69" alt="Gnome"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="68" alt="Java"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/3032C5B3-078E-4B2F-ACD7-837EBA94CB0E-removebg-preview.png" height="69" alt="Kotlin"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/DB0F3935-8237-4390-A52D-A0F412D1DCC0-removebg-preview.png" height="69" alt="Golang"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/437D53B1-4139-4551-BD3C-8D86D7D46ABB-removebg-preview.png" height="69" alt="Python"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/D779F384-9DAF-4780-8E17-E1A1001DED70-removebg-preview.png" height="67" alt="Spring"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/6F4C24C4-584D-40D2-9C60-E1C256848769-removebg-preview.png" height="69" alt="JUnit"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/FD9EDBF4-1876-45A9-9B71-01D0AEEBCFEB-removebg-preview.png" height="69" alt="PostgreSQL"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/EEEB04AA-780B-4C31-9B4E-FEECB2169F43.png" height="69" alt="MySQL"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/postman_macos_bigsur_icon_189815.png" height="69" alt="Postman"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" height="71" alt="VsCode"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/intellij_macos_bigsur_icon_190061.png" height="69" alt="IntelliJ"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/goland-ide-icon.png" height="69" alt="GoLand"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/intellij_datagrip_macos_bigsur_icon_190058.png" height="69" alt="DataGrip"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/excalidraw.svg" height="66" alt="Excalidraw"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/draw-io.svg" height="69" alt="DrawIo"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/git_macos_bigsur_icon_190141.png" height="69" alt="Git"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/github_macos_bigsur_icon_190140.png" height="69" alt="GitHub"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/1280px-Claude-ai-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="69" alt="Claude"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/discord_icon_130958.png" height="69" alt="Discord"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/aws-light.svg" height="47" alt="AWS"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/apachemaven.svg" height="60" alt="Maven"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/supabase.svg" height="58" alt="Supabase"/>
 </div>
 
 ---
