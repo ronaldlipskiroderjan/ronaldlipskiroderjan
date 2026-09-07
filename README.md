@@ -78,6 +78,7 @@ public class RonaldRoderjan {
 
 <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="Fedora"/>
 <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="62" alt="Linux"/>
 
 </div>
 
@@ -86,7 +87,7 @@ public class RonaldRoderjan {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/> 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
