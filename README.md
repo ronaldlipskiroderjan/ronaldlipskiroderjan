@@ -54,6 +54,7 @@ public class RonaldRoderjan {
 ---
 
 ## 💬 Connect With Me
+---
 
 <div align="center">
   <a href="www.linkedin.com/in/ronald-lipski-roderjan-352476368">  
@@ -71,6 +72,7 @@ public class RonaldRoderjan {
 </div>
 
 ## 🛠 Tech Stack
+---
 
 <div align="center">
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="69" alt="Linux" />
@@ -102,6 +104,7 @@ public class RonaldRoderjan {
 </div>
 
 ## 📊 GitHub Analytics
+---
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldlipskiroderjan&theme=tokyonight&hide_border=true&border_radius=20"/>
