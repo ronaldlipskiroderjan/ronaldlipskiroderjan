@@ -36,12 +36,10 @@ public class RonaldRoderjan {
 
 ```text
 
-
      "The more varieties of different kinds of notations are
     still useful -don't only read the people who code like you."
 
                                                        -Donald Knuth
-
 ```
  
 </td>
