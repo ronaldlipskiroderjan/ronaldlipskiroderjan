@@ -104,7 +104,7 @@ public class RonaldRoderjan {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldlipskiroderjan&theme=tokyonight&hide_border=true&border_radius=20"/>
 </div>
 
 ---
