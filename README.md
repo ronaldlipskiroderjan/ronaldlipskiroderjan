@@ -77,8 +77,13 @@ public class RonaldRoderjan {
 <div align="center">
 
 <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/logo_fedora_22362.png" height="67" alt="Fedora"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="67.5" alt="Linux"/>
 <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
-<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/LinuxTux.png" height="69" alt="Linux"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Kotlin"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
+<img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/java_22523.png" height="67" alt="Java"/>
 
 </div>
 
