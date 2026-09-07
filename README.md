@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQEbuQ6CAVBaXQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ_cF8cgHgAc-/0/1786103973941?e=1790208000&v=beta&t=KOaXQoeYmrYNJkR2K4jF0Wr6pzgz4hrRYU-LqyhNr_Q"/>
+<img width="100%" src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/Banner.png"/>
 
 </div>
 
