@@ -4,7 +4,7 @@
 
 </div>
 
-## 🚀 About Me
+## 🤙 About Me
 
 ---
 
@@ -13,20 +13,21 @@
 <td width="50%" valign="top">
 
 ```java
+
 public class RonaldRoderjan {
 
     private String role = "Backend Developer";
-    private String location = "Brasil 🇧🇷";
+    private String location = "Brazil 🇧🇷";
     
     private String[] building = {
         "Backend Projects"
     };
 
     private String[] tech = {
-        "Languages: Java, Kotlin, Go, Python",
-        "Frameworks: Spring Framework, Junit",
+        "Language: Java, Kotlin, Go, Python",
+        "Framework: Spring Framework, JUnit",
         "Database: PostgreSQL, MySQL",
-        "Tools: Maven, Linux, Git, GitHub, Docker ",
+        "Tool: Maven, Linux, Git, GitHub, Docker",
         "Architecture: Software Design, Software Modeling, REST API",
         "Code Quality: Clean Code, SOLID, Design Patterns" 
     };
@@ -39,7 +40,7 @@ public class RonaldRoderjan {
      "The more varieties of different kinds of notations are
     still useful -don't only read the people who code like you."
 
-                                                       -Donald Kruth
+                                                       -Donald Knuth
 
 ```
  
@@ -71,7 +72,6 @@ public class RonaldRoderjan {
   </a>
 </div>
 
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -84,6 +84,7 @@ public class RonaldRoderjan {
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/437D53B1-4139-4551-BD3C-8D86D7D46ABB-removebg-preview.png" height="69" alt="Python"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/D779F384-9DAF-4780-8E17-E1A1001DED70-removebg-preview.png" height="67" alt="Spring"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/6F4C24C4-584D-40D2-9C60-E1C256848769-removebg-preview.png" height="69" alt="JUnit"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/docker_macos_bigsur_icon_190231.png" height="69" alt="Docker"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/FD9EDBF4-1876-45A9-9B71-01D0AEEBCFEB-removebg-preview.png" height="69" alt="PostgreSQL"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/EEEB04AA-780B-4C31-9B4E-FEECB2169F43.png" height="69" alt="MySQL"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/postman_macos_bigsur_icon_189815.png" height="69" alt="Postman"/>
@@ -99,51 +100,13 @@ public class RonaldRoderjan {
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/discord_icon_130958.png" height="69" alt="Discord"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/aws-light.svg" height="47" alt="AWS"/>
     <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/apachemaven.svg" height="60" alt="Maven"/>
-    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/supabase.svg" height="58" alt="Supabase"/>
+    <img src="https://github.com/ronaldlipskiroderjan/ronaldlipskiroderjan/blob/main/supabase.svg" height="58" alt="Supabase"/>    
 </div>
-
----
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ronald-lipski-roderjan-352476368" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@DevRonald" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-code -> build -> test -> repeat
-```
-
-</div>
