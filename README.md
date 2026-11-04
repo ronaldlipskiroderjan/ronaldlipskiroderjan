@@ -23,13 +23,14 @@ public class RonaldRoderjan {
         "Backend Projects"
     };
 
-    private String[] tech = {
-        "Language: Java, Kotlin, Go, Python",
-        "Framework: Spring Framework, JUnit",
+    private String currentPosition = "Intern at Just Code People"
+
+    private String[] stacks = {
+        "Language: Java, Kotlin, Python, TypeScript",
+        "Framework: Spring Boot, JUnit",
         "Database: PostgreSQL, MySQL",
         "Tool: Maven, Linux, Git, GitHub, Docker",
-        "Architecture: Software Design, Software Modeling, REST API",
-        "Code Quality: Clean Code, SOLID, Design Patterns" 
+        "Code Quality: Clean Code, SOLID, Design Patterns"
     };
 }
 ```
